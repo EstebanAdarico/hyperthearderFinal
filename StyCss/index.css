@@ -4,9 +4,19 @@ body{
     font-family: 'Courier New', Courier, monospace;
 
 }
-
+h2{
+    color: blue;
+    font-size: 10rem;
+    margin: 0%;
+    padding:0%;
+}
 p{
     color: brown;
     font-size: large;
+    margin: 0%;
+    padding: 0%;
     
+}
+ul.navega li{
+    display: inline;
 }
