@@ -8,5 +8,10 @@ body{
 p{
     color: brown;
     font-size: large;
+    margin: 0%;
+    padding: 0%;
     
+}
+ul.navega li{
+    display: inline;
 }
